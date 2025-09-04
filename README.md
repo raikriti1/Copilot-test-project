@@ -61,5 +61,3 @@ This repository is intended for exploring and validating all major use and test 
 - Refactoring support
 - Documentation assistance
 - Debugging and error resolution
-
-Use this project as a sandbox to experiment with Copilot features
