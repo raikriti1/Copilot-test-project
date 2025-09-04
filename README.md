@@ -1,5 +1,3 @@
-# copilot-python-demo/copilot-python-demo/README.md
-
 # Copilot Python Testing Project
 
 This project is designed to extensively test and demonstrate the capabilities of GitHub Copilot in a Python development workflow using Visual Studio Code. It covers code completion, code generation, refactoring, documentation, and unit testing use cases.
