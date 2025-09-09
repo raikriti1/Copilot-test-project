@@ -61,3 +61,4 @@ This repository is intended for exploring and validating all major use and test 
 - Refactoring support
 - Documentation assistance
 - Debugging and error resolution
+- Code translation between multiple programming languages [Python -> C++] [Python -> JavaScript]
